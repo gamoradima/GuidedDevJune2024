@@ -44,26 +44,6 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "2ef4ffd5-f953-4e99-bdc3-5d6e9949302e"
-        },
-        {
-          "SchemaColumnUId": "31fcc131-021c-b730-fd15-ca088051c5db",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "63980ef2-42f1-58a4-0377-29ed55b40c0a",
-          "Value": 0.00
-        },
-        {
-          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
-        }
-      ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "aa43b2be-d3c2-4f03-abcb-4c0ab95bf4c5"
         },
         {
