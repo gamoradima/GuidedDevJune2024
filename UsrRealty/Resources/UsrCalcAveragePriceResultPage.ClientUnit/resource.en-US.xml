@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Calculation result page" />
+			<Item Name="LocalizableStrings.Input_dqnwtoo_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.NumberInput_k1bf76l_label.Value" Value="Average price, USD" />
+			<Item Name="LocalizableStrings.RichTextEditor_q53waj3_caption.Value" Value="Rich text" />
+			<Item Name="LocalizableStrings.RichTextEditor_q53waj3_label.Value" Value="SQL text (debug only)" />
+			<Item Name="LocalizableStrings.RichTextEditor_s8dml70_caption.Value" Value="Rich text" />
+			<Item Name="LocalizableStrings.RichTextEditor_s8dml70_label.Value" Value="SQL text (debug only)" />
+			<Item Name="Parameters.d24af22a-8366-2307-c103-97f81ea5e17e.Caption" Value="SQL text (debug)" />
+			<Item Name="Parameters.ed75992d-e4f8-a6bf-8b68-f0c7b08fc920.Caption" Value="Average price, USD" />
+		</Items>
+	</Group>
+</Resources>
