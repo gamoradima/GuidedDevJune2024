@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty Migration form page" />
+			<Item Name="LocalizableStrings.addRecord_qyesvmu_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rbomfho_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_l1ihbv1_caption.Value" Value="Run service" />
+			<Item Name="LocalizableStrings.Button_prnibmi_caption.Value" Value="Button" />
+		</Items>
+	</Group>
+</Resources>

@@ -14,7 +14,12 @@ define("UsrRealtyClassic1Page", [], function() {
 			}
 		}/**SCHEMA_DETAILS*/,
 		businessRules: /**SCHEMA_BUSINESS_RULES*/{}/**SCHEMA_BUSINESS_RULES*/,
-		methods: {},
+		methods: {
+            onRunWebServiceButtonClick: function() {
+                this.console.log("Button works!");
+                // do something...
+            }
+        },
 		dataModels: /**SCHEMA_DATA_MODELS*/{}/**SCHEMA_DATA_MODELS*/,
 		diff: /**SCHEMA_DIFF*/[
 			{
@@ -71,6 +76,27 @@ define("UsrRealtyClassic1Page", [], function() {
 				"propertyName": "items",
 				"index": 2
 			},
+            {
+                "operation": "insert",
+                "parentName": "ProfileContainer",
+                "propertyName": "items",
+                "name": "RunWebServiceButton",
+                /* The properties to pass to the element’s constructor. */
+                "values": {
+					"layout": {
+						"colSpan": 12,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 3,
+						"layoutName": "ProfileContainer"
+					},
+                    /* Set the type of the added element to ‘button.’ */
+                    "itemType": Terrasoft.ViewItemType.BUTTON,
+                    "caption": {bindTo: "Resources.Strings.RunWebServiceCaption"},
+                    "click": {bindTo: "onRunWebServiceButtonClick"},
+                    "style": Terrasoft.controls.ButtonEnums.style.BLUE
+                }
+            },
 			{
 				"operation": "insert",
 				"name": "LOOKUP3d485f5c-047e-46cc-862b-a08633d8c0ff",
